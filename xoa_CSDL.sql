@@ -1,0 +1,1 @@
+drop database `quan_ly1`;
